@@ -1,12 +1,4 @@
-Now the PIPEDA folder:
-
-Click "Add file" → "Create new file"
-In the filename box type exactly:
-PIPEDA/pipeda-privacy-policy-template.md
-Paste this in:
-
-
-markdown# PIPEDA Privacy Policy Template
+ PIPEDA Privacy Policy Template
 
 **Business Name:** [Your Business Name]  
 **Website:** [Your Website URL]  
