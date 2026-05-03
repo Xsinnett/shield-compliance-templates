@@ -1,9 +1,4 @@
-Great, your GDPR folder is now complete with both files. Now we're moving on to the CCPA folder.
 
-Click "Add file" → "Create new file"
-In the filename box type exactly:
-CCPA/ccpa-privacy-policy-template.md
-Paste this in:
 
 
 markdown# CCPA Privacy Policy Template
