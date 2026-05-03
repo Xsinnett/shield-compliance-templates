@@ -1,12 +1,4 @@
-Now the HIPAA checklist:
 
-Click "Add file" → "Create new file"
-In the filename box type exactly:
-HIPAA/hipaa-compliance-checklist.md
-Paste this in:
-
-
-markdown# HIPAA Compliance Checklist
 
 *Prepared by Shield Compliance | shieldcompliance.carrd.co*  
 *This checklist is for informational purposes only and does not 
